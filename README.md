@@ -1,4 +1,6 @@
 # Residencia_tic18
-Arquivos e projetos de estudo desenvolvidos durante o programa de residencia em software.
+## Manoel Patrocinio 
+### Turma 3
 
-teste 0001
+<p> Repositorio para concentra atividades em aula e exercios práticos na plataforma moodle </p>
+
