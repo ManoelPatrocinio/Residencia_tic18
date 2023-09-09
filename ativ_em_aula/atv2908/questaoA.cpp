@@ -7,7 +7,7 @@ int main(void){
 
 
 
-   char zero = '0';
+   char zero = 'a';
    int cont = 0;
    
    while (cont < 10 ){
