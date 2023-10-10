@@ -11,8 +11,8 @@ void inputOnFile()
 
     if (arquivo_entrada.is_open())
     {
-        arquivo_entrada << "Escrevendo no arquivo. " << endl;
-        arquivo_entrada << 20 + 30 << endl;
+        arquivo_entrada << "Escrevendo no arquivo 222. " << endl;
+        arquivo_entrada << 20 + 20 << endl;
         arquivo_entrada.close();
     }
     else
