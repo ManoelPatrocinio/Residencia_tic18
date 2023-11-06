@@ -48,7 +48,6 @@ public:
         return telefone;
     }
 
-   
     void addUser(Usuario novoUser)
     {
         arrayUsers.push_back(novoUser);
@@ -87,13 +86,11 @@ public:
         outuser.open("usuarios.txt", ios_base::out);
         if (outuser.is_open())
         {
-            outuser<< endl;
+            outuser << endl;
             outuser.close();
         }
     }
-   
 
-    
     void deleteUser(string cpfUser)
     {
         int cont = -1;
@@ -121,7 +118,7 @@ public:
             outuser.close();
         }
     }
-   
+
     void resgatarDadosUsers()
     {
         Usuario user;
@@ -152,14 +149,15 @@ public:
             cout << "Error ao abrir o arquivo" << endl;
         }
     }
-   
-   void alterarUser(string cpfUser)
+
+    void alterarUser(string cpfUser)
     {
         string cpf, nome, endereco, telefone, cpfbusca;
-        cout << "--- Resultado da busca ---" <<endl<<endl;
+        cout << "--- Resultado da busca ---" << endl
+             << endl;
         for (auto &user : arrayUsers)
         {
-         
+
             if (user.getCPF() == cpfUser)
             {
                 buscaUser(cpfUser);
@@ -168,8 +166,7 @@ public:
                 cout << "Informe o nome: ";
                 getline(cin, nome);
 
-                 user.nome = nome;
-
+                user.nome = nome;
 
                 cout << "Informe o CPF: ";
                 getline(cin, cpf);
@@ -186,18 +183,16 @@ public:
             }
         }
 
-         for (Usuario user : arrayUsers){
+        for (Usuario user : arrayUsers)
+        {
             removeUsuariosOnFile(user);
-         }
-         for (Usuario user : arrayUsers){
+        }
+        for (Usuario user : arrayUsers)
+        {
             addUsuarioOnFile(user);
-         }
+        }
         arrayUsers.clear();
-
-        
-
     }
-
 };
 void GerenciaUsuario()
 {
@@ -270,7 +265,7 @@ void GerenciaUsuario()
         cpfbusca = "";
 
         system("clear");
-        cout<<"Digite o CPF do usuário que deseja alterar: ";
+        cout << "Digite o CPF do usuário que deseja alterar: ";
         getline(cin, cpfbusca);
 
         user.alterarUser(cpfbusca);
@@ -278,10 +273,10 @@ void GerenciaUsuario()
         break;
     case 5:
         cpfbusca = "";
-        
+
         system("clear");
         user.listaUser();
-        cout<<"Digite o CPF do usuário que deseja excluir: ";
+        cout << "Digite o CPF do usuário que deseja excluir: ";
         getline(cin, cpfbusca);
 
         user.alterarUser(cpfbusca);
@@ -291,7 +286,6 @@ void GerenciaUsuario()
         break;
     }
 }
-
 
 class Funcionario : public Usuario
 {
@@ -354,7 +348,7 @@ public:
             }
         }
     }
-     void addClientOnFile(Cliente cliente)
+    void addClientOnFile(Cliente cliente)
     {
         ofstream outCliente;
         outCliente.open("clientes.txt", ios_base::app);
@@ -409,7 +403,6 @@ int main()
 {
     int escolha;
 
-
     do
     {
         escolha = MenuGeral();
@@ -422,10 +415,10 @@ int main()
             break;
 
         case 2:
-           
+
             break;
         case 3:
-           
+
             break;
         default:
             break;
