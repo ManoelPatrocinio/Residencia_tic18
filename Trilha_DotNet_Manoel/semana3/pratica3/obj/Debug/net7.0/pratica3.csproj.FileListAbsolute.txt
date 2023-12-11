@@ -1,0 +1,15 @@
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/obj/Debug/net7.0/pratica3.csproj.AssemblyReference.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/obj/Debug/net7.0/pratica3.GeneratedMSBuildEditorConfig.editorconfig
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/obj/Debug/net7.0/pratica3.AssemblyInfoInputs.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/obj/Debug/net7.0/pratica3.AssemblyInfo.cs
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/obj/Debug/net7.0/pratica3.csproj.CoreCompileInputs.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/bin/Debug/net7.0/pratica3
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/bin/Debug/net7.0/pratica3.deps.json
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/bin/Debug/net7.0/pratica3.runtimeconfig.json
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/bin/Debug/net7.0/pratica3.dll
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/bin/Debug/net7.0/pratica3.pdb
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/obj/Debug/net7.0/pratica3.dll
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/obj/Debug/net7.0/refint/pratica3.dll
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/obj/Debug/net7.0/pratica3.pdb
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/obj/Debug/net7.0/pratica3.genruntimeconfig.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana3/pratica3/obj/Debug/net7.0/ref/pratica3.dll

@@ -1,0 +1,15 @@
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/obj/Debug/net7.0/av_individual.csproj.AssemblyReference.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/obj/Debug/net7.0/av_individual.GeneratedMSBuildEditorConfig.editorconfig
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/obj/Debug/net7.0/av_individual.AssemblyInfoInputs.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/obj/Debug/net7.0/av_individual.AssemblyInfo.cs
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/obj/Debug/net7.0/av_individual.csproj.CoreCompileInputs.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/bin/Debug/net7.0/av_individual
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/bin/Debug/net7.0/av_individual.deps.json
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/bin/Debug/net7.0/av_individual.runtimeconfig.json
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/bin/Debug/net7.0/av_individual.dll
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/bin/Debug/net7.0/av_individual.pdb
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/obj/Debug/net7.0/av_individual.dll
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/obj/Debug/net7.0/refint/av_individual.dll
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/obj/Debug/net7.0/av_individual.pdb
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/obj/Debug/net7.0/av_individual.genruntimeconfig.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/av_individual/obj/Debug/net7.0/ref/av_individual.dll

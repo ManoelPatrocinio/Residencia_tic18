@@ -1,0 +1,15 @@
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/obj/Debug/net7.0/aula1611.csproj.AssemblyReference.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/obj/Debug/net7.0/aula1611.GeneratedMSBuildEditorConfig.editorconfig
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/obj/Debug/net7.0/aula1611.AssemblyInfoInputs.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/obj/Debug/net7.0/aula1611.AssemblyInfo.cs
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/obj/Debug/net7.0/aula1611.csproj.CoreCompileInputs.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/bin/Debug/net7.0/aula1611
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/bin/Debug/net7.0/aula1611.deps.json
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/bin/Debug/net7.0/aula1611.runtimeconfig.json
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/bin/Debug/net7.0/aula1611.dll
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/bin/Debug/net7.0/aula1611.pdb
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/obj/Debug/net7.0/aula1611.dll
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/obj/Debug/net7.0/refint/aula1611.dll
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/obj/Debug/net7.0/aula1611.pdb
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/obj/Debug/net7.0/aula1611.genruntimeconfig.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana2/atvEmSala/aula1611/obj/Debug/net7.0/ref/aula1611.dll

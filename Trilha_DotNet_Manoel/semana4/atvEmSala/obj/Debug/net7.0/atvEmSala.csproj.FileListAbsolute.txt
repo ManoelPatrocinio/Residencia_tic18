@@ -1,0 +1,15 @@
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/obj/Debug/net7.0/atvEmSala.csproj.AssemblyReference.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/obj/Debug/net7.0/atvEmSala.GeneratedMSBuildEditorConfig.editorconfig
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/obj/Debug/net7.0/atvEmSala.AssemblyInfoInputs.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/obj/Debug/net7.0/atvEmSala.AssemblyInfo.cs
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/obj/Debug/net7.0/atvEmSala.csproj.CoreCompileInputs.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/bin/Debug/net7.0/atvEmSala
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/bin/Debug/net7.0/atvEmSala.deps.json
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/bin/Debug/net7.0/atvEmSala.runtimeconfig.json
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/bin/Debug/net7.0/atvEmSala.dll
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/bin/Debug/net7.0/atvEmSala.pdb
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/obj/Debug/net7.0/atvEmSala.dll
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/obj/Debug/net7.0/refint/atvEmSala.dll
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/obj/Debug/net7.0/atvEmSala.pdb
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/obj/Debug/net7.0/atvEmSala.genruntimeconfig.cache
+/home/manoel/Documentos/Projetos/Trilha_DotNet_Manoel/semana4/atvEmSala/obj/Debug/net7.0/ref/atvEmSala.dll
